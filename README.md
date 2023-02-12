@@ -14,6 +14,6 @@ Smooth scroll animation
 Animation pada saat melakukan hover di tombol navigation bar
 
 # Identitas Pembuat
-Nama : Naufal Dzaki Imtiyaz
+Nama : Eduardus Alvito Kristiadi
 Fakultas : STEI-K
 Universitas : ITB
