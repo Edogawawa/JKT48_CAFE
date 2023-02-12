@@ -1,6 +1,6 @@
 ## JKT48 CAFE
 
-Sebuah website yang berisi kumpulan resep masakan internasional yang berjalan dengan baik.
+Sebuah website yang berisi kumpulan resep masakan internasional yang berjalan dengan baik. Juga ditambahkan fitur search yang telah terhubung dengan The Meal DB. 
 
 # Deskripsi Program
 Program merupakan sebuah tampilan website sederhana yang responsive.
@@ -13,7 +13,9 @@ Navigation bar menempel
 Smooth scroll animation
 Animation pada saat melakukan hover di tombol navigation bar
 
+Selain itu, juga terdapat search bar untuk mencari menu-menu yang ada pada API TheMealDB. 
+
 # Identitas Pembuat
-Nama : Naufal Dzaki Imtiyaz
+Nama : Eduardus Alvito Kristiadi
 Fakultas : STEI-K
 Universitas : ITB
